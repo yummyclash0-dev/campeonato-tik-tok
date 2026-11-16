@@ -1,0 +1,22 @@
+CAMPEONATO DO TIK TOK — versão inicial instalável (PWA)
+
+Conteúdo:
+- 60 clubes distribuídos em Série A, B e C
+- Cadastro de até 10 jogadores por clube, com atributos aleatórios e OVER
+- Edição de jogadores e clubes
+- Simulação rápida de rodadas com placares e eventos
+- Classificação, artilharia e assistências
+- Salvamento local no aparelho e exportação de backup
+
+Como testar:
+1. Extraia o ZIP.
+2. Hospede os arquivos em um endereço HTTPS (por exemplo, GitHub Pages).
+3. No iPhone, abra o endereço no Safari.
+4. Toque em Compartilhar > Adicionar à Tela de Início.
+
+Observações importantes:
+- Esta é uma primeira versão funcional/protótipo, não um aplicativo publicado na App Store.
+- Os resultados e eventos são simulados; não são previsões reais.
+- A simulação permite elencos incompletos enquanto você cadastra os jogadores.
+- Os dados ficam no armazenamento local do navegador. Exporte o backup para não perder seu campeonato.
+- As listas de clubes foram carregadas como ponto de partida e podem ser editadas no app.
